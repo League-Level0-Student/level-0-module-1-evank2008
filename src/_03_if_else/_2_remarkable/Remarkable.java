@@ -14,7 +14,7 @@ public static void main(String[] args) {
 
 	Random ran = new Random();
 	Random ran1 = new Random();
-		// 1.   Savde something remarkable about each person in a variable.
+		// 1.   Savde somethig remarkable about each person in a variable.
 	String a1 = null;
 	String a2 = null;
 	String p1 = " exist";
