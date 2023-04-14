@@ -10,11 +10,15 @@ public class MyAges {
 		//        Start its value at zero.
 		
 		// Change the value of yourCurrentAge to match your age
-		int yourCurrentAge = 0;
-				
+		int yourCurrentAge = 14;
+
 		
 		//  WHILE LOOP. Start a while loop to repeat while age <= yourCurrentAge
-				
+				while(yourCurrentAge>=0) {
+					System.out.println(yourCurrentAge);
+					
+					yourCurrentAge -=1;
+				}
 			//  Print the age variable
 		
 			//  Add one to the age variable
